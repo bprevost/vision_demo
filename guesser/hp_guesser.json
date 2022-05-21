@@ -1,8 +1,18 @@
 {
-    "Is it magical?": {
-        "yes": "Is it Harry Potter?",
-        "no": "Is it Dudley Dursley?"
-    },
+    "Is it Dobby?": 0,
+    "Is it Dudley Dursley?": 0,
     "Is it Harry Potter?": 0,
-    "Is it Dudley Dursley?": 0
+    "Is it Hemoine Granger?": 0,
+    "Is it a house elf?": {
+        "no": "Is it Harry Potter?",
+        "yes": "Is it Dobby?"
+    },
+    "Is it female?": {
+        "no": "Is it a house elf?",
+        "yes": "Is it Hemoine Granger?"
+    },
+    "Is it magical?": {
+        "no": "Is it Dudley Dursley?",
+        "yes": "Is it female?"
+    }
 }
